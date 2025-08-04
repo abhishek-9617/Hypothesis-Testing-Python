@@ -92,8 +92,7 @@ To include visual proof of your results, save a screenshot and place it in an `o
 
 ![Sample Output](outputs/plots/fig3.png)
 
-![Sample Output](outputs/plots/fig4.png)
-
+---
 ## 📌 Author
 
 **Abhishek Bhardwaj** 
